@@ -1,0 +1,2 @@
+Continuous data max-min normalization 
+Discrete data one-hot encoding
